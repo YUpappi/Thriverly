@@ -622,6 +622,9 @@ a{
    
 }
 @media (max-width: 768px){
+    html{
+        font-size: 55%;
+    }
     .footer{
         width: 100%;
         max-width: 1120px;
