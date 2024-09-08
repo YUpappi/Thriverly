@@ -17,6 +17,7 @@ a{
 }
 .main{
     margin-bottom: 3rem;
+    padding-inline: 10px;
 }
 
 .header{
@@ -617,6 +618,9 @@ a{
     }
     .footer__copy{
         margin-top: 2rem;
+    }
+    .footer{
+        padding-inline: 10px;
     }
     
    
